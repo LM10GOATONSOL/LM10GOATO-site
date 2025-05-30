@@ -1,0 +1,79 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>$LM10GOAT | The GOAT Coin</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');body {
+  margin: 0;
+  padding: 0;
+  background: url('data:image/jpeg;base64,{{background_base64}}') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Cinzel', serif;
+  color: #ffd700;
+  text-align: center;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 3rem 1rem;
+  min-height: 100vh;
+}
+
+.logo {
+  width: 180px;
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+p.quote-top {
+  font-style: italic;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #ffd700;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.links {
+  margin-top: 2rem;
+}
+
+.links a {
+  margin: 0 1rem;
+}
+
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <p class="quote-top">"A coin fit for kings. A tribute to the one true GOAT."</p>
+    <img src="data:image/jpeg;base64,{{logo_base64}}" alt="$LM10GOAT Logo" class="logo" />
+    <h1>$LM10GOAT</h1>
+    <h2>The GOAT Coin for the GOAT Fans</h2>
+    <div class="links">
+      🗾 <a href="https://x.com/LM10GOATONSOL" target="_blank">Follow on Twitter</a>
+      📫 <a href="https://t.me/LM10GOAT_OFFICIAL" target="_blank">Join Telegram</a>
+    </div>
+    <div class="links" style="margin-top: 3rem;">
+      <p>Token launching soon on pump.fun</p>
+    </div>
+  </div>
+</body>
+</html>
